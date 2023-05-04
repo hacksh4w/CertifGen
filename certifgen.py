@@ -25,7 +25,7 @@ font_color = (0,0,0)
 # will be printing the name (set
 # according to your own template)
 coordinate_y_adjustment = 100
-coordinate_x_adjustment = 540
+coordinate_x_adjustment = 535
 print(coordinate_x_adjustment)
 print(coordinate_y_adjustment)
 # loading the details.xlsx workbook
